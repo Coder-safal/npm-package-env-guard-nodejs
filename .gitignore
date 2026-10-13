@@ -1,0 +1,25 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+.env
+.env.*
+
+# AI assistant instructions, plans, and local tooling
+AGENTS.md
+AGENTS.override.md
+CLAUDE.md
+GEMINI.md
+IMPLEMENTATION_PLAN.md
+.agents/
+.codex/
+.claude/
+.cursor/
+.cursorrules
+.windsurf/
+.windsurfrules
+.continue/
+.aider*
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
