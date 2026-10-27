@@ -1,6 +1,6 @@
 {
   "name": "@coder-safal/envguard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Type-safe, secret-safe environment validation with zero runtime dependencies",
   "type": "module",
   "license": "MIT",
